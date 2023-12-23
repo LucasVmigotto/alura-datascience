@@ -79,6 +79,9 @@ target/
 /data/**/*.*
 !/data/**/.gitkeep
 
+# exclude models from source control
+/models/*
+
 # Mac OS-specific storage files
 .DS_Store
 
